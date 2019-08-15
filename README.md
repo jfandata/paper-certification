@@ -1,2 +1,2 @@
-# paper-certification
-Project page showcasing paper-certification for websites such as LinkedIn profile.
+# Digital Copy of Paper Certification
+Project page showcasing digital copy of paper certification for websites such as LinkedIn profile.
